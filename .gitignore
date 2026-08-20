@@ -1,0 +1,9 @@
+# Configurações e pastas internas do PyCharm
+.idea/
+
+# Arquivos do Python e Sistema Operacional
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+Thumbs.db
